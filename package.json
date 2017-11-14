@@ -1,0 +1,22 @@
+{
+  "name": "koa-learning",
+  "version": "1.0.0",
+  "description": "the demo for learning koa",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FOXaaFOX/koa-learning.git"
+  },
+  "keywords": [
+    "koa"
+  ],
+  "author": "zy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FOXaaFOX/koa-learning/issues"
+  },
+  "homepage": "https://github.com/FOXaaFOX/koa-learning#readme"
+}
